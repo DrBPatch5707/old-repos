@@ -1,2 +1,0 @@
-/usr/bin/ar qc libutills.a CMakeFiles/utills.dir/loading.cpp.o
-/usr/bin/ranlib libutills.a

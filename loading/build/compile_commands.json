@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/briarajohnson/repos/loading/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/utills.dir/loading.cpp.o -c /home/briarajohnson/repos/loading/loading.cpp",
-  "file": "/home/briarajohnson/repos/loading/loading.cpp",
-  "output": "CMakeFiles/utills.dir/loading.cpp.o"
-}
-]

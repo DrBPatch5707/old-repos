@@ -1,3 +1,0 @@
-/home/briarajohnson/repos/loading/build/CMakeFiles/utills.dir
-/home/briarajohnson/repos/loading/build/CMakeFiles/edit_cache.dir
-/home/briarajohnson/repos/loading/build/CMakeFiles/rebuild_cache.dir
