@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/bpatch/repos/cpp/fun/P2/build",
-  "command": "/run/current-system/sw/bin/c++   -g -o CMakeFiles/p2.dir/main.cpp.o -c /home/bpatch/repos/cpp/fun/P2/main.cpp",
-  "file": "/home/bpatch/repos/cpp/fun/P2/main.cpp",
-  "output": "CMakeFiles/p2.dir/main.cpp.o"
-}
-]
